@@ -2,6 +2,7 @@
 
 #### I'm currently working for the University of Idaho at The Center For Ecohydraulics Research
 #### I'm currently learning at the University of Washington in Embedded Systems
+#### The toys I like to play with are CNC milling machines, 3D printers, Laser Cutters, Reflow Ovens, and Microcontrollers
 
 
 <!--
