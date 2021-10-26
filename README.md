@@ -10,6 +10,14 @@
 #### Some software I like to use includes Arduino, IAR, Visual Studio, Visual Micro, Rhino 3D, MeshCam, CamBam, Cura, PrusaSlicer, Mach3, and KiCad
 ----
   <h2 align="center">My Favorite Projects</h2>
+  <br />
+  <p align="center">
+  <img width="400" src="https://github.com/bobbasham/embsys310/blob/master/assignment01/ScreenCapture.png" />
+  <a href="https://github.com/bobbasham/embsys310">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=bobbasham&repo=embsys310&theme=tokyonight" />
+  </a>
+  
+  
 <!--
 **bobbasham/bobbasham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
