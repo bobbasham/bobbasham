@@ -1,4 +1,7 @@
-### Hi there, I'm Bob 😃
+<p>
+  <h1 align="center"><b>Hi there, I'm Bob 😃
+  </h1>
+</p>
 ----
 #### I'm currently working for the University of Idaho at The Center For Ecohydraulics Research
 #### I'm currently learning at the University of Washington in Embedded Systems
