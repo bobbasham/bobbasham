@@ -3,11 +3,10 @@
   </h1>
 </p>
 
-#### I'm currently working for the University of Idaho at The Center For Ecohydraulics Research
-#### I'm currently learning at the University of Washington in Embedded Systems
+#### I'm currently working for SGW Designworks
 #### The toys I like to play with are CNC milling machines, 3D printers, Laser Cutters, Reflow Ovens, and Microcontrollers
-#### I only speak English well, but some other languages I like to write with are C, G-code, Cypress Enable, Python, and of course Mark Down!
-#### Some software I like to use includes Arduino, IAR, Visual Studio, Visual Micro, Rhino 3D, MeshCam, CamBam, Cura, PrusaSlicer, Mach3, and KiCad
+#### I only speak English well, but some other languages I like to write with are C/C++, G-code, Cypress Enable, Python, and of course Mark Down!
+#### Some software I like to use includes VS Code, IAR, Rhino 3D, MeshCam, CamBam, Mach3, and KiCad
 ----
   <h2 align="center">My Favorite Projects</h2>
   <br />
